@@ -1,6 +1,7 @@
 SIMPLE ARRANGE CODE IN JAVASCRIPT
+Código Arranjo Simples em Javascript
 
-
+Exemplo: 
 node simpleArrange.js
 [
 [ 1, 2, 3 ], [ 1, 2, 4 ], [ 1, 2, 5 ], [ 1, 2, 6 ], [ 1, 2, 7 ],
